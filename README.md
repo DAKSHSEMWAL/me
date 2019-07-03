@@ -1,5 +1,4 @@
 # PORTFOLIO-APP 
-[![Build Status](https://github.com/DAKSHSEMWAL/PortfolioApp)](https://github.com/DAKSHSEMWAL/PortfolioApp)
 
 - To run this project follow these steps , 
   - clone the repo using `git clone`
