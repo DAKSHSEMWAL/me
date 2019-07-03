@@ -6,4 +6,4 @@
   - run `npm install` to instal node modules
   - run `npm start` to start the service on `localhost:3000`
     
-##### deployed app : https://dakshsemwal.github.io/PortfolioApp/
+##### deployed app : https://dakshsemwal.github.io/Portfolio/
