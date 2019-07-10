@@ -44,10 +44,10 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-android" />
                 </span>
                 <div className="desc">
-                    <h3>Android Develop</h3>
+                    <h3>Android Development</h3>
                     <p>I love working in mobile development and love open-source so I naturally drifted towards Android</p>
                 </div>
                 </div>
