@@ -16,6 +16,29 @@ export default class About extends Component {
                     <p>I am a Junior Android Developer currently working in start-up. I love reading about new technologies and also world affairs.</p>
                     </div>
                 </div>
+
+                <div className="row">
+
+					<div className="col-md-3 animate-box" data-animate-effect="fadeInRight">
+				    	<div className="services color-4">
+					        <span className="icon2"><i className="icon-globe-outline"></i></span>
+							<h3>Web Design</h3>
+						</div>
+					</div>
+					<div className="col-md-3 animate-box" data-animate-effect="fadeInTop">
+						<div className="services color-2">
+							<span className="icon2"><i className="icon-data"></i></span>
+							<h3>Software</h3>
+						</div>
+					</div>
+					<div className="col-md-3 animate-box" data-animate-effect="fadeInBottom">
+						<div className="services color-5">
+					    	<span className="icon2"><i className="icon-android"></i></span>
+							<h3>Adnroid Development</h3>
+						</div>
+					</div>
+					</div>
+                
                 </div>
             </div>
             </div>
@@ -37,10 +60,21 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have some experience building websites using JavaScript,HTML,CSS</p>
+                    <p>I have some experience building websites using JavaScript,<br/>HTML,CSS</p>
                 </div>
                 </div>
             </div>
+            <div class="col-md-4 text-center animate-box">
+				<div class="services color-2">
+					<span class="icon">
+						<i class="icon-data"></i>
+					</span>
+					<div class="desc">
+						<h3>Application</h3>
+				        <p>I have some experience in using Photoshop, Illustrator, VsCode, Android Studio</p>
+			    	</div>
+				</div>
+			</div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
