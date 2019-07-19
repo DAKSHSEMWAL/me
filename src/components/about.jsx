@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have some experience building websites using JavaScript,<br/>HTML,CSS</p>
+                    <p>I have some experience building websites using JavaScript,<br/>HTML,CSS<br/><br/><br/><br/><br/></p>
                 </div>
                 </div>
             </div>
@@ -71,7 +71,7 @@ export default class About extends Component {
 					</span>
 					<div class="desc">
 						<h3>Application</h3>
-				        <p>I have some experience in using Photoshop, Illustrator, VsCode, Android Studio</p>
+				        <p>I have experience in using Android Studio, Photoshop, Illustrator<br/>,VsCode<br/><br/><br/><br/><br/></p>
 			    	</div>
 				</div>
 			</div>
@@ -82,7 +82,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Android Development</h3>
-                    <p>I love working in mobile development and love open-source so I naturally drifted towards Android</p>
+                    <p>I love technology but tends to lean more towards mobile technology and open-source. Android being a open source and having a larger market base attracted me more so I decided to follow the path of Android Developer</p>
                 </div>
                 </div>
             </div>               
