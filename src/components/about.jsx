@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have some experience building websites using JavaScript,<br/>HTML,CSS<br/><br/><br/><br/><br/></p>
+                    <p>I first started doning web devlopment in college and I do have some experience in building websites using JavaScript,HTML,CSS<br/><br/><br/><br/></p>
                 </div>
                 </div>
             </div>
