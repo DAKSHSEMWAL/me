@@ -19,7 +19,7 @@ export default class Connect extends Component {
 									<i class="icon-mail"></i>
 								</div>
 								<div class="colorlib-text">
-									<p><a href="#">dakshsemwal@gmail.com</a></p>
+									<p><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dakshsemwal35@gmail.com" target="_blank" rel="noopener noreferrer">dakshsemwal35@gmail.com</a></p>
 								</div>
 							</div>
 							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
@@ -27,7 +27,7 @@ export default class Connect extends Component {
 									<i class="icon-mail"></i>
 								</div>
 								<div class="colorlib-text">
-									<p><a href="#">dsemwal2@gmail.com</a></p>
+									<p><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dsemwal2@gmail.com" target="_blank" rel="noopener noreferrer">dsemwal2@gmail.com</a></p>
 								</div>
 							</div>
 							<div class="colorlib-feature colorlib-feature-sm animate-box" data-animate-effect="fadeInLeft">
@@ -35,7 +35,7 @@ export default class Connect extends Component {
 									<i class="icon-map"></i>
 								</div>
 								<div class="colorlib-text">
-									<p><a href="http://maps.google.com/?q=57 B.Highland Greens, Highland Park Homes, Zirakpur, 140603" Using target="_blank" without rel="noopener noreferrer">
+									<p><a href="https://www.google.com/maps/place/Highland+Park+Zirakpur+Official/@30.6492708,76.7944076,17z/data=!4m5!3m4!1s0x0:0xdd57258912649934!8m2!3d30.6492662!4d76.7965961" Using target="_blank" without rel="noopener noreferrer">
 57 B.Highland Greens, Highland Park Homes, Zirakpur, 140603</a></p>
 								</div>
 							</div>

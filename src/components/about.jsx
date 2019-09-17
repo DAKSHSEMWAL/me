@@ -47,35 +47,35 @@ export default class About extends Component {
         <section className="colorlib-about">
         <div className="colorlib-narrow-content">
             <div className="row">
-            <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
-            </div>
+                <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                    <span className="heading-meta">What I do?</span>
+                    <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                </div>
             </div>
             <div className="row row-pt-md">
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
-                <span className="icon">
-                    <i className="icon-bulb" />
-                </span>
-                <div className="desc">
-                    <h3>Web Development </h3>
-                    <p>I first started doning web devlopment in college and I do have some experience in building websites using JavaScript,HTML,CSS<br/><br/><br/><br/></p>
+                <div className="col-md-4 text-center animate-box">
+                    <div className="services color-1">
+                    <span className="icon">
+                        <i className="icon-bulb" />
+                    </span>
+                    <div className="desc">
+                        <h3>Web Development </h3>
+                        <p>I first started doning web devlopment in college and I do have some experience in building websites using JavaScript,HTML,CSS<br/><br/><br/><br/></p>
+                    </div>
+                    </div>
                 </div>
+                <div class="col-md-4 text-center animate-box">
+                    <div class="services color-2">
+                        <span class="icon">
+                            <i class="icon-data"></i>
+                        </span>
+                        <div class="desc">
+                            <h3>Application</h3>
+                            <p>I have experience in using Android Studio, Photoshop, Illustrator<br/>,VsCode<br/><br/><br/><br/><br/></p>
+                        </div>
+                    </div>
                 </div>
-            </div>
-            <div class="col-md-4 text-center animate-box">
-				<div class="services color-2">
-					<span class="icon">
-						<i class="icon-data"></i>
-					</span>
-					<div class="desc">
-						<h3>Application</h3>
-				        <p>I have experience in using Android Studio, Photoshop, Illustrator<br/>,VsCode<br/><br/><br/><br/><br/></p>
-			    	</div>
-				</div>
-			</div>
-            <div className="col-md-4 text-center animate-box">
+                <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
                     <i className="icon-android" />
