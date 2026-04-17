@@ -5,7 +5,7 @@
   "homepage": "https://dakshsemwal.github.io/me/",
   "dependencies": {
     "axios": "^0.19.0",
-    "firebase": "^6.2.4",
+    "firebase": "^12.12.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
     "react-scripts": "^2.1.5",
