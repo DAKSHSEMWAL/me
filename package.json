@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://dakshsemwal.github.io/me/",
   "dependencies": {
-    "axios": "^1.7.7",
+    "axios": "^1.18.0",
     "firebase": "^11.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
